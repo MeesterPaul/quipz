@@ -1,6 +1,7 @@
 # Linux
 *~
 *.swp
+.user.ini
 
 # Windows
 Thumbs.db
