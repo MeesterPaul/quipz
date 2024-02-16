@@ -81,6 +81,14 @@ body { display: flex; flex-direction: column; }
 #title * { margin: 0; color: rgb(0,112,180); }
 #title p { font-style: italic; }
 
+.desktop-title {
+    display: inline;
+}
+.mobile-title {
+    display: none;
+}
+
+
 #logo { height: 10.8em; }
 #logo * { display: block; height: 100%; }
 #logo img { min-width: 4.8em; }
@@ -177,6 +185,22 @@ body { display: flex; flex-direction: column; }
     #footer p { padding: 1em 0; }
     #footer .social { padding: 0.5em 0 0.5em 1em; }
 }
+
+@media (max-width: 600px) {
+    .desktop-title {
+        display: none;
+    }
+    .mobile-title {
+        display: inline;
+    }
+    #logo {
+        height: 5.8em;
+    }
+    #title, #logo {
+        padding: 0.5em 1.5em 0.5em 0;
+    }
+}
+
 
 /*** TYPOGRAPHY ***/
 
