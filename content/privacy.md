@@ -67,7 +67,7 @@ We reserve the right to adapt this privacy policy so that it always complies wit
 
 ## Questions?
 
-If you have any questions about data protection, please send us an e-mail to [president@quipz.ch]().
+If you have any questions about data protection, please send us an e-mail to [board@quipz.ch](mailto:board@quipz.ch)
 
 # Datenschutzerklärung
 
@@ -130,6 +130,6 @@ Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets de
 
 ## Fragen?
 
-Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail an [president@quipz.ch](). 
+Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail an [vorstand@quipz.ch](mailto:vorstand@quipz.ch)
 
  
