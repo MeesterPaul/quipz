@@ -1,5 +1,6 @@
 ---
 Title: Privacy Policy – Quiz & Puzzle Club Zurich
+Hidden: true
 Date: 2024-02-16
 LastUpdated: 2024-02-16
 Description: Our privacy and data protection regulations
