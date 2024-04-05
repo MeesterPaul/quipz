@@ -1,5 +1,6 @@
 robots.txt
 plugins/*
+!plugins/QuipzEvents
 
 ics/quipz-events.ics
 
