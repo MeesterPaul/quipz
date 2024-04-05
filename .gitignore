@@ -1,6 +1,8 @@
 robots.txt
 plugins/*
 
+ics/quipz-events.ics
+
 # Linux
 *~
 *.swp
