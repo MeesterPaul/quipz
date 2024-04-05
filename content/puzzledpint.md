@@ -13,17 +13,15 @@ The members of QuiPZ host the Zurich, Switzerland edition of Puzzled Pint, an En
 
 ## When and where?
 
-The next event is on **Tuesday 12th March**. We will be there to welcome you **from 7pm until 10pm.**
+You can find the date and location for the next Puzzled Pint event in Zurich on our [events page](/upcoming-events). If you are based elsewhere then you may be able to find an event near you on the [global Puzzled Pint website](https://puzzledpint.com/).
 
-This month we're at [The Alehouse – Palmhof](https://www.alehouse.ch/), Universitätstrasse 23, 8006 Zurich ([Google map](https://g.page/TheAlehouseZH?share)). It's just up the road from ETH Zentrum and the nearest tram stops are ETH/Universitätsspital and Haldenbach.
+## How punctual do I need to be?
 
-## Do I need to be there for the whole 3 hours?
-
-Nope, it's all very casual, but someone will be available to hand out puzzles and hints during those times. Depending as to how seasoned a puzzler you are you can expect to take around 2 hours to work through all the puzzles, but you don't have to finish them all on the night (or at all).
+It's all very casual, but someone will be available to hand out puzzles and hints during the times listed on the [events page](/upcoming-events). Depending as to how seasoned a puzzler you are you can expect to take around 2 hours to work through all the puzzles, but you don't have to finish them all on the night (or at all).
 
 ## Do I need a team?
 
-Teams of 3-5 people tend to work best for these puzzles, but feel free to come alone and we'll help slot you into a team on the night.
+Feel free to come alone and we'll help slot you into a team on the night, or bring along some friends.
 
 ## How much does it cost?
 
